@@ -1,0 +1,57 @@
+Mallikarjun  CM
+Cloud Support Engineer
+
+karnataka
+7892144085
+
+Electronics and Communication Engineering graduate with strong expertise in Linux administration (RHEL) and system management. Experienced in server configuration, networking, shell scripting, and automation, with hands-on familiarity with AWS services (EC2, S3, IAM, VPC). Solid knowledge of system monitoring, virtualization, and server hardening, including securing services and managing repositories. Eager to contribute to IT infrastructure, cloud, and DevOps teams.
+
+
+PERSONAL INFORMATION
+  Address: Bengaluru, karnataka, 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SKILLS
+  Linux administration(RHEL) 
+  AWS(IAM,S3,EC2,AMI,VPC,Load Balancers)
+  SQL(Basic fundamentals)
+  
+
+WORK EXPERIENCE
+  * January 2026 – June 2026
+    Linux administartor intern at Besant Technologies, Bengaluru
+      Installed,configured and maintained RHEL Servers for multi-client environments.
+Managed user accounts,groups and permissions to ensure secure access.
+Configured and secured Apache,FTP,NFS, snd YUM repositories.
+Applied server hardening practices including SSH authentication,system monitoring.
+
+
+
+
+EDUCATION
+  * December 2021 – June 2025
+    Bachelor of Engineering in Electronics and Communication, Kushalanagar Govt Engineering College.
+
+    cgpa:8.04
+  * 2018 – 2020
+    XII(STATE), Naregal.Gadag Shri Annadhaneshwara PU College
+  * 2018 – 2020
+    X(STATE), Bengaluru Vikas High School
+
+REFERENCES
+  *  from 
+
+
+  * Projects, , 
+
+    
+  FTP Server - Deployed FTP master server for secure file transfers between clients,improving accessibility.
+  NFS Configuration - implemented NFS-Based file sharing with centralized storage and seamless client access.
+  VPC - Established a Virtual Private Cloud(VPC) infrastructure, configuring both public and private subnets for secure data segmentation. &nbsp;
+
+
+  * Certification, Rajajinagar,Bengaluru, 
+
+    Linux, AWS and Devops live training in Besant Technologies(undergoing)
